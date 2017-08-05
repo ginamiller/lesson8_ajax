@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 4, 2017
 
 ### Student Name:  
-(First and Last Name)
+Gina Miller
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we use an API, ajax and JSON to develop an application that pulls movie information from TheMovieDB.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ginamiller.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Ajax allows client webpages to quickly interact and exchange data with a web server without reloading the page.
+2. JSON's simple values are the same as used in programming languages.
+3. JSON is not a markup or formatting language.
